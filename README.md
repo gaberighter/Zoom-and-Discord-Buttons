@@ -13,3 +13,4 @@ headers (7 pins) - 1x
 jumper wires
 perfboard (25x30) - 1x
 ```
+***3d-files is out of date and does not fit the components properly***
